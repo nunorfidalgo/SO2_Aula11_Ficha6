@@ -1,8 +1,4 @@
 // Exercico 1.1
-
-
-
-
 //Base.c
 #include <windows.h>
 #include <windowsx.h>
